@@ -35,6 +35,12 @@ const MentalHealthInfographic = () => {
             Undocumented students should not have to choose between academic excellence and mental wellbeing. Current systems force an impossible balance between educational achievement and psychological health, creating unsustainable pressure on students already managing complex family dynamics.
           </p>
         </div>
+        <div className="bg-yellow-50 p-4 rounded-lg mb-8">
+          <h3 className="font-semibold mb-2">Key Research Finding</h3>
+          <p className="text-sm">
+            Trauma experienced at different stages of migration is associated with distinctive mental health outcomes, with premigration trauma significantly linked to anxiety disorders and post-migration trauma associated with PTSD symptoms. - Cleary et al. (2018)
+          </p>
+        </div>
 
         <div className="mb-8">
           <h3 className="text-xl font-semibold mb-4">Mental Health Statistics</h3>

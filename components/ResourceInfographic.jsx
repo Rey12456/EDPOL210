@@ -12,6 +12,15 @@ const ResourceInfographic = () => {
   <h3 className="font-semibold mb-2">Call to Action</h3>
   <p>Highschools must expand beyond traditional mental health services to provide culturally competent, immigration-informed support. Mental health resources should be as accessible as academic resources for undocumented students.</p>
 </div>
+<div className="bg-blue-50 p-4 rounded-lg mb-8">
+          <h3 className="font-semibold mb-2">Key Research Finding</h3>
+          <p className="text-sm">
+          Invest in Community School Models:
+Integrate wraparound services within schools to address students' holistic needs, including mental health, legal aid, and other social services.
+Partner with community-based organizations (CBOs) to offer additional mental health and trauma support tailored to immigrant populations.​
+             - Gándara & Santibañez (2023)
+          </p>
+        </div>
 
        <div className="grid grid-cols-3 gap-6 mb-12">
          <a href="https://www.nami.org" target="_blank" rel="noopener noreferrer" 

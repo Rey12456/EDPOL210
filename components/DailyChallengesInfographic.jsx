@@ -45,6 +45,13 @@ const DailyChallengesInfographic = () => {
   <h3 className="font-semibold mb-2">Key Issue</h3>
   <p>The 24-hour responsibilities of undocumented students create a cycle of chronic stress. Academic institutions must recognize and accommodate these unique challenges through flexible policies and targeted support systems.</p>
 </div>
+<div className="bg-blue-50 p-4 rounded-lg mb-8">
+          <h3 className="font-semibold mb-2">Key Research Finding</h3>
+          <p className="text-sm">
+            Lack of Support from Teachers and Peers: While some teachers addressed issues like race and privilege, others remained neutral, leaving students feeling unsupported. Additionally, finding genuine allies among their White peers was rare, further isolating them in an already challenging environment​.
+             - Rodriguez & Ybarra. (2020)
+          </p>
+        </div>
 
         <div className="mb-12">
           <h3 className="text-xl font-semibold mb-4">Daily Timeline</h3>
